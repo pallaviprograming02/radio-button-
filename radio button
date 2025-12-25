@@ -1,0 +1,7 @@
+<input type="radio" name="gender" id="m">
+<label for="m">Male</label>
+<input type="radio" name="gender" id="f">
+<label for="f">Female</label>
+↓ Preview
+ Male  Female
+Radio buttons are used to let the user select exactly one
